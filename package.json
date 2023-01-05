@@ -6,7 +6,8 @@
   "author": "geonhwiii <geonhwiii@github.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:w": "jest --watch"
   },
   "devDependencies": {
     "jest": "^29.3.1"
