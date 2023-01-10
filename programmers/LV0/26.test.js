@@ -1,4 +1,4 @@
-const solution = require("./26.최댓값 만들기(1)");
+const solution = require("./26.최댓값만들기(1)");
 
 describe("26.최댓값 만들기(1)", () => {
   it("(1) 두 수의 곱중 최댓값은 4 * 5 = 20 입니다.", () => {
