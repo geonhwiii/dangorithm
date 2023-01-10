@@ -78,3 +78,4 @@
 | 63  | [k의개수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/63.k의개수.js)                               |
 | 64  | [가까운수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/64.가까운수.js)                             |
 | 65  | [진료순서정하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/65.진료순서정하기.js)                 |
+| 66  | [한번만등장한문자](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/66.한번만등장한문자.js)             |
