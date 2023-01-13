@@ -79,3 +79,6 @@
 | 64  | [가까운수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/64.가까운수.js)                             |
 | 65  | [진료순서정하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/65.진료순서정하기.js)                 |
 | 66  | [한번만등장한문자](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/66.한번만등장한문자.js)             |
+| 67  | [문자열정렬하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/67.문자열정렬하기.js)                 |
+| 68  | [합성수찾기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/68.합성수찾기.js)                         |
+| 69  | [7의개수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/69.7의개수.js)                               |
