@@ -82,3 +82,7 @@
 | 67  | [문자열정렬하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/67.문자열정렬하기.js)                 |
 | 68  | [합성수찾기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/68.합성수찾기.js)                         |
 | 69  | [7의개수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/69.7의개수.js)                               |
+| 70  | [이진수더하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/70.이진수더하기.js)                     |
+| 71  | [숨어있는숫자의덧셈(2)](<https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/71.숨어있는숫자의덧셈(2).js>) |
+| 72  | [공던지기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/72.공던지기.js)                             |
+| 73  | [소인수분해](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/73.소인수분해.js)                         |
