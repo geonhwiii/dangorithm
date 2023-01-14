@@ -86,3 +86,7 @@
 | 71  | [숨어있는숫자의덧셈(2)](<https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/71.숨어있는숫자의덧셈(2).js>) |
 | 72  | [공던지기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/72.공던지기.js)                             |
 | 73  | [소인수분해](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/73.소인수분해.js)                         |
+| 74  | [영어가싫어요](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/74.영어가싫어요.js)                     |
+| 75  | [잘라서배열로저장하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/75.잘라서배열로저장하기.js)     |
+| 76  | [문자열계산하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/76.문자열계산하기.js)                 |
+| 77  | [구슬을나누는경우의수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/77.구슬을나누는경우의수.js)     |
