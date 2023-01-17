@@ -90,3 +90,6 @@
 | 75  | [잘라서배열로저장하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/75.잘라서배열로저장하기.js)     |
 | 76  | [문자열계산하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/76.문자열계산하기.js)                 |
 | 77  | [구슬을나누는경우의수](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/77.구슬을나누는경우의수.js)     |
+| 78  | [컨트롤제트](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/78.컨트롤제트.js)                         |
+| 79  | [외계어사전](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/79.외계어사전.js)                         |
+| 80  | [삼각형의완성조건(2)](<https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/80.삼각형의완성조건(2).js>)     |
