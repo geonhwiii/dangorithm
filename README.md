@@ -93,3 +93,5 @@
 | 78  | [컨트롤제트](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/78.컨트롤제트.js)                         |
 | 79  | [외계어사전](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/79.외계어사전.js)                         |
 | 80  | [삼각형의완성조건(2)](<https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/80.삼각형의완성조건(2).js>)     |
+| 81  | [종이자르기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/81.종이자르기.js)                         |
+| 82  | [캐릭터의좌표](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/82.캐릭터의좌표.js)                     |
