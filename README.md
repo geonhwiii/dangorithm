@@ -95,3 +95,6 @@
 | 80  | [삼각형의완성조건(2)](<https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/80.삼각형의완성조건(2).js>)     |
 | 81  | [종이자르기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/81.종이자르기.js)                         |
 | 82  | [캐릭터의좌표](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/82.캐릭터의좌표.js)                     |
+| 83  | [치킨쿠폰](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/83.치킨쿠폰.js)                             |
+| 84  | [유한소수판별하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/84.유한소수판별하기.js)             |
+| 85  | [OX퀴즈](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/85.OX퀴즈.js)                                 |
