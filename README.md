@@ -98,3 +98,6 @@
 | 83  | [치킨쿠폰](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/83.치킨쿠폰.js)                             |
 | 84  | [유한소수판별하기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/84.유한소수판별하기.js)             |
 | 85  | [OX퀴즈](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/85.OX퀴즈.js)                                 |
+| 86  | [등수매기기](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/86.등수매기기.js)                         |
+| 87  | [특이한정렬](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/87.특이한정렬.js)                         |
+| 88  | [저주의숫자3](https://github.com/geonhwiii/dangorithm/blob/main/programmers/LV0/88.저주의숫자3.js)                       |
