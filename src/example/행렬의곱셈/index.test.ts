@@ -1,8 +1,8 @@
-import { describe, expect, it } from "vitest";
-import { solution } from "./index";
+import { describe, expect, it } from 'vitest';
+import { solution } from './index';
 
-describe("example_행렬의곱셈", () => {
-	it("case 1", () => {
+describe('example_행렬의곱셈', () => {
+	it('case 1', () => {
 		const arr1 = [
 			[1, 4],
 			[3, 2],
@@ -20,7 +20,7 @@ describe("example_행렬의곱셈", () => {
 		];
 		expect(answer).toEqual(result);
 	});
-	it("case 2", () => {
+	it('case 2', () => {
 		const arr1 = [
 			[2, 3, 2],
 			[4, 2, 4],

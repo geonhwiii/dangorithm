@@ -1,5 +1,5 @@
 export function solution(s: string) {
-	const arr = s.split("");
+	const arr = s.split('');
 	return arr.map((char, index) => {
 		const prevString = arr.slice(0, index);
 		const prevIndex = prevString.lastIndexOf(char);

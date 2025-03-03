@@ -10,7 +10,7 @@ export function solution(cards1: string[], cards2: string[], goal: string[]) {
 			cards2Index++;
 			continue;
 		}
-		return "No";
+		return 'No';
 	}
-	return "Yes";
+	return 'Yes';
 }

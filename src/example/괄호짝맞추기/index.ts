@@ -1,7 +1,7 @@
 const OPEN = '(';
 
 export function solution(s: string) {
-	const stack = []
+	const stack = [];
 	for (const char of s) {
 		if (char === OPEN) {
 			stack.push(OPEN);

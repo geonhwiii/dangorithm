@@ -1,8 +1,4 @@
-export function solution(
-	name: string[],
-	yearning: number[],
-	photo: string[][],
-) {
+export function solution(name: string[], yearning: number[], photo: string[][]) {
 	const scoreMap = new Map();
 	name.forEach((name, index) => scoreMap.set(name, yearning[index]));
 	const result = photo.map((item) => {
