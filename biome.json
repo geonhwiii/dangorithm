@@ -22,7 +22,8 @@
 			"recommended": true,
 			"style": {
 				"useConst": "off",
-				"noParameterAssign": "off"
+				"noParameterAssign": "off",
+				"noNonNullAssertion": "off"
 			},
 			"complexity": {
 				"noForEach": "off"
