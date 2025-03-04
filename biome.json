@@ -23,6 +23,9 @@
 			"style": {
 				"useConst": "off",
 				"noParameterAssign": "off"
+			},
+			"complexity": {
+				"noForEach": "off"
 			}
 		}
 	},
