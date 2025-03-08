@@ -3,6 +3,7 @@
 	"type": "module",
 	"scripts": {
 		"test": "vitest",
+		"test:w": "vitest -w",
 		"test:ui": "vitest --ui",
 		"coverage": "vitest run --coverage",
 		"format": "biome format --write ./"
