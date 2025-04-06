@@ -23,7 +23,8 @@
 			"style": {
 				"useConst": "off",
 				"noParameterAssign": "off",
-				"noNonNullAssertion": "off"
+				"noNonNullAssertion": "off",
+				"useNodejsImportProtocol": "off"
 			},
 			"complexity": {
 				"noForEach": "off"
