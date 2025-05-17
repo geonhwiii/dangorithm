@@ -51,15 +51,3 @@ function bfs(start: number[], distanceMap: number[][], maps: number[][]) {
 	}
 	return distanceMap;
 }
-
-// it('case 1', () => {
-//     const maps = [
-//         [1, 0, 1, 1, 1],
-//         [1, 0, 1, 0, 1],
-//         [1, 0, 1, 1, 1],
-//         [1, 1, 1, 0, 1],
-//         [0, 0, 0, 0, 1],
-//     ];
-//     const answer = solution(maps);
-//     expect(answer).toEqual(11);
-// });
