@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'bun:test';
+import { describe, it, expect } from 'vitest';
 import { solution } from './index';
 
 describe('example_배열다루기', () => {
