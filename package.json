@@ -2,7 +2,7 @@
 	"name": "dangorithm",
 	"type": "module",
 	"scripts": {
-		"test": "vitest",
+		"test": "vitest run",
 		"test:w": "vitest -w",
 		"test:ui": "vitest --ui",
 		"coverage": "vitest run --coverage",
@@ -10,6 +10,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
+		"@gunw.dan/rusky": "^0.1.0",
 		"@testing-library/jest-dom": "^6.6.3",
 		"@testing-library/react": "^16.1.0",
 		"@types/bun": "latest",

@@ -1,0 +1,6 @@
+{
+	"hooks": {
+		"pre-commit": "bun run format && git add . && bun run test"
+	},
+	"version": "0.1.0"
+}
