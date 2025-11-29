@@ -3,21 +3,21 @@ import { wordPattern } from "./index";
 
 describe("EASY_125_ValidPalindrome", () => {
   it("case 1", () => {
-    const pattern = "egg";
-    const s = "add";
+    const pattern = "abba";
+    const s = "dog cat cat dog";
     const answer = wordPattern(pattern, s);
     expect(answer).toEqual(true);
   });
   it("case 2", () => {
-    const pattern = "foo";
-    const s = "bar";
+    const pattern = "abba";
+    const s = "dog cat cat fish";
     const answer = wordPattern(pattern, s);
     expect(answer).toEqual(false);
   });
   it("case 3", () => {
-    const pattern = "paper";
-    const s = "title";
+    const pattern = "aaaa";
+    const s = "dog cat cat dog";
     const answer = wordPattern(pattern, s);
-    expect(answer).toEqual(true);
+    expect(answer).toEqual(false);
   });
 });
