@@ -1,23 +1,35 @@
 export function threeSum(nums: number[]): number[][] {
-	// 1. 결과
-	let result = [];
+	const result: number[][] = [];
 
-	// 2. 정렬
-	const sortedNums = nums.sort((a, b) => a - b);
+	// 정렬 (원본 배열을 변경하지 않도록 복사)
+	const sortedNums = [...nums].sort((a, b) => a - b);
 
-	// 3. 순회
-	for (let i = 0; i < nums.length - 2; i++) {
-		let left = i + 1;
-		let right = nums.length - 1;
-
+	for (let i = 0; i < sortedNums.length - 2; i++) {
+		// i의 중복 건너뛰기
 		if (i > 0 && sortedNums[i] === sortedNums[i - 1]) {
 			continue;
 		}
 
+		let left = i + 1;
+		let right = sortedNums.length - 1;
+
 		while (left < right) {
 			const sum = sortedNums[i] + sortedNums[left] + sortedNums[right];
+
 			if (sum === 0) {
+				// 결과 추가
 				result.push([sortedNums[i], sortedNums[left], sortedNums[right]]);
+
+				// left의 중복 건너뛰기
+				while (left < right && sortedNums[left] === sortedNums[left + 1]) {
+					left++;
+				}
+				// right의 중복 건너뛰기
+				while (left < right && sortedNums[right] === sortedNums[right - 1]) {
+					right--;
+				}
+
+				// 한 번 더 이동 (다음 다른 값으로)
 				left++;
 				right--;
 			} else if (sum < 0) {
@@ -27,5 +39,6 @@ export function threeSum(nums: number[]): number[][] {
 			}
 		}
 	}
+
 	return result;
 }
