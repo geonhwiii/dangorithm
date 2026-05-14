@@ -1,19 +1,23 @@
+// now: 한 초씩 흐르는 시각. pendingStarts: 아직 "첫 하락 시각"을 모르는 과거 인덱스.
 export function solution(prices) {
   const n = prices.length;
   const answer = new Array(n).fill(0);
-  const stack = [];
+  const pendingStarts = [];
 
-  for (let i = 0; i < n; i++) {
-    while (stack.length > 0 && prices[stack[stack.length - 1]] > prices[i]) {
-      const j = stack.pop();
-      answer[j] = i - j;
+  for (let now = 0; now < n; now++) {
+    while (
+      pendingStarts.length > 0 &&
+      prices[pendingStarts.at(-1)] > prices[now]
+    ) {
+      const start = pendingStarts.pop();
+      answer[start] = now - start;
     }
-    stack.push(i);
+    pendingStarts.push(now);
   }
 
-  while (stack.length > 0) {
-    const j = stack.pop();
-    answer[j] = n - 1 - j;
+  while (pendingStarts.length > 0) {
+    const start = pendingStarts.pop();
+    answer[start] = n - 1 - start;
   }
 
   return answer;
